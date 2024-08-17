@@ -16,6 +16,7 @@ a, b 가설 검증 내용은 목차 내에 각각 (a), (b)로 표시해두었습
 2. 데이터셋 소개와 로드하기 - 가설세우기
 3. 로드한 데이터의 결측치를 보고 요약, 집계하기 - info, is null, value_counts
 4. (a) groupBy와 pivot_table로 다양한 집계 연산하기 
+
   
 #### 파일명 : coachingstudy03_2.ipynb
 **범주형 데이터 시각화 하기**    
@@ -24,6 +25,7 @@ a, b 가설 검증 내용은 목차 내에 각각 (a), (b)로 표시해두었습
 7. 수치형 vs 범주형 데이터의 시각화(막대그래프2) - barplot  
 8. 수치형 vs 범주형 데이터 선그래프로 그리기 - lineplot, pointplot  
 9. 데이터를 좀 더 자세히 표현하기 - boxplot, violinplot 그리기  
+
 
 ### PART2 : 신장과 허리둘레의 크기는 체중과 상관관계가 있을까?
 #### 파일명 : coachingstudy03_3.ipynb  
