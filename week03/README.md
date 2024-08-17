@@ -18,16 +18,16 @@ a, b 가설 검증 내용은 목차 내에 각각 (a), (b)로 표시해두었습
 4. (a) groupBy와 pivot_table로 다양한 집계 연산하기 
   
 #### 파일명 : coachingstudy03_2.ipynb
-**범주형 데이터 시각화 하기**
-5. 히스토그램으로 전체 수치 데이터를 한번에 시각화하기
-6. (a) 데이터의 빈도수 시각화하기(막대그래프1) - countplot
-7. 수치형 vs 범주형 데이터의 시각화(막대그래프2) - barplot
-8. 수치형 vs 범주형 데이터 선그래프로 그리기 - lineplot, pointplot
-9. 데이터를 좀 더 자세히 표현하기 - boxplot, violinplot 그리기
+**범주형 데이터 시각화 하기**    
+5. 히스토그램으로 전체 수치 데이터를 한번에 시각화하기  
+6. (a) 데이터의 빈도수 시각화하기(막대그래프1) - countplot  
+7. 수치형 vs 범주형 데이터의 시각화(막대그래프2) - barplot  
+8. 수치형 vs 범주형 데이터 선그래프로 그리기 - lineplot, pointplot  
+9. 데이터를 좀 더 자세히 표현하기 - boxplot, violinplot 그리기  
 
 ### PART2 : 신장과 허리둘레의 크기는 체중과 상관관계가 있을까?
 ### 파일명 : coachingstudy03_3.ipynb  
-**수치형 데이터 시각화 하기**  
-10. 산점도(산포도)와 회귀선 상관관계 보기 - scatterplot, lmplot
-11. 수치형 데이터의 분포를 표현하기 - distplot
+**수치형 데이터 시각화 하기**    
+10. 산점도(산포도)와 회귀선 상관관계 보기 - scatterplot, lmplot  
+11. 수치형 데이터의 분포를 표현하기 - distplot  
 12. 상관계수 - heatmap 으로 표현하기
