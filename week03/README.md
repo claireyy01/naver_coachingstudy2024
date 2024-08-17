@@ -26,7 +26,7 @@ a, b 가설 검증 내용은 목차 내에 각각 (a), (b)로 표시해두었습
 9. 데이터를 좀 더 자세히 표현하기 - boxplot, violinplot 그리기  
 
 ### PART2 : 신장과 허리둘레의 크기는 체중과 상관관계가 있을까?
-### 파일명 : coachingstudy03_3.ipynb  
+#### 파일명 : coachingstudy03_3.ipynb  
 **수치형 데이터 시각화 하기**    
 10. 산점도(산포도)와 회귀선 상관관계 보기 - scatterplot, lmplot  
 11. 수치형 데이터의 분포를 표현하기 - distplot  
